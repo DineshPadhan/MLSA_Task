@@ -37,7 +37,7 @@ const projectList = [
     url: "https://github.com/DineshPadhan/E-Commerce_Website--A_Fashion_Store",
   },
   {
-    title: "ABC_Sample_School_Project",
+    title: "ABC School Project",
     description:
       "School project with all type of Data track in the Application.",
     url: "https://github.com/DineshPadhan/Major-Projects/tree/main/ABC_Sample_School_Project",
